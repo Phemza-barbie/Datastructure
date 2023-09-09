@@ -1,0 +1,6 @@
+Create a variable for the first set and the second set 
+Create a variable that holds the sum
+Read the first set and check if any of the first set is not present in the second set
+If true add the element to sum
+Read the second set and check if element in the second set is not in set 1
+if true add the element to sum
